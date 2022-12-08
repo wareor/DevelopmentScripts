@@ -1,0 +1,15 @@
+C:\AARP\aarpbe\BookStoreApi\Develping proyect scripts\DevelopmentProyectScripts\DevelopmentProyectScripts\bin\Debug\net6.0\DevelopmentProyectScripts.exe
+C:\AARP\aarpbe\BookStoreApi\Develping proyect scripts\DevelopmentProyectScripts\DevelopmentProyectScripts\bin\Debug\net6.0\DevelopmentProyectScripts.deps.json
+C:\AARP\aarpbe\BookStoreApi\Develping proyect scripts\DevelopmentProyectScripts\DevelopmentProyectScripts\bin\Debug\net6.0\DevelopmentProyectScripts.runtimeconfig.json
+C:\AARP\aarpbe\BookStoreApi\Develping proyect scripts\DevelopmentProyectScripts\DevelopmentProyectScripts\bin\Debug\net6.0\DevelopmentProyectScripts.dll
+C:\AARP\aarpbe\BookStoreApi\Develping proyect scripts\DevelopmentProyectScripts\DevelopmentProyectScripts\bin\Debug\net6.0\DevelopmentProyectScripts.pdb
+C:\AARP\aarpbe\BookStoreApi\Develping proyect scripts\DevelopmentProyectScripts\DevelopmentProyectScripts\obj\Debug\net6.0\DevelopmentProyectScripts.csproj.AssemblyReference.cache
+C:\AARP\aarpbe\BookStoreApi\Develping proyect scripts\DevelopmentProyectScripts\DevelopmentProyectScripts\obj\Debug\net6.0\DevelopmentProyectScripts.GeneratedMSBuildEditorConfig.editorconfig
+C:\AARP\aarpbe\BookStoreApi\Develping proyect scripts\DevelopmentProyectScripts\DevelopmentProyectScripts\obj\Debug\net6.0\DevelopmentProyectScripts.AssemblyInfoInputs.cache
+C:\AARP\aarpbe\BookStoreApi\Develping proyect scripts\DevelopmentProyectScripts\DevelopmentProyectScripts\obj\Debug\net6.0\DevelopmentProyectScripts.AssemblyInfo.cs
+C:\AARP\aarpbe\BookStoreApi\Develping proyect scripts\DevelopmentProyectScripts\DevelopmentProyectScripts\obj\Debug\net6.0\DevelopmentProyectScripts.csproj.CoreCompileInputs.cache
+C:\AARP\aarpbe\BookStoreApi\Develping proyect scripts\DevelopmentProyectScripts\DevelopmentProyectScripts\obj\Debug\net6.0\DevelopmentProyectScripts.dll
+C:\AARP\aarpbe\BookStoreApi\Develping proyect scripts\DevelopmentProyectScripts\DevelopmentProyectScripts\obj\Debug\net6.0\refint\DevelopmentProyectScripts.dll
+C:\AARP\aarpbe\BookStoreApi\Develping proyect scripts\DevelopmentProyectScripts\DevelopmentProyectScripts\obj\Debug\net6.0\DevelopmentProyectScripts.pdb
+C:\AARP\aarpbe\BookStoreApi\Develping proyect scripts\DevelopmentProyectScripts\DevelopmentProyectScripts\obj\Debug\net6.0\DevelopmentProyectScripts.genruntimeconfig.cache
+C:\AARP\aarpbe\BookStoreApi\Develping proyect scripts\DevelopmentProyectScripts\DevelopmentProyectScripts\obj\Debug\net6.0\ref\DevelopmentProyectScripts.dll
